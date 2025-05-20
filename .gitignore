@@ -24,3 +24,5 @@ hs_err_pid*
 replay_pid*
 /CurrencyFormatter/nbproject/private/
 /CurrencyFormatter/build/
+/ReadCSV/nbproject/private/
+/ReadCSV/build/
